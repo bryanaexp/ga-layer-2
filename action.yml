@@ -11,3 +11,5 @@ runs:
   steps:
     - run: echo Hello Layer 2
       shell: bash
+    - name: Invoke Layer 3
+      uses: bryanaexp/ga-layer-3@main
