@@ -11,4 +11,3 @@ runs:
   steps:
     - run: echo Hello Layer 2
       shell: bash
-      test: wow
